@@ -1,0 +1,58 @@
+# Java / Java ME build outputs
+*.class
+*.jar
+*.jad
+*.war
+*.ear
+build/
+dist/
+out/
+bin/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account.json
+firebase-adminsdk*.json
+google-services.json
+auth.json
+secrets.json
+secrets.yml
+
+# Local databases and dumps
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.dump
+
+# Logs, caches and temporary files
+*.log
+logs/
+cache/
+tmp/
+temp/
+*.bak
+*.backup
+*.old
+*.copy
+
+# IDE and OS metadata
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Large/generated archives and executables
+*.zip
+*.rar
+*.7z
+*.exe
+
