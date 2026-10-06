@@ -104,7 +104,18 @@ Para la parte Bluetooth SPP, inicia primero `SPPServidorMIDlet` en el telefono r
 
 ## Capturas
 
-No hay capturas versionadas actualmente. Pueden agregarse posteriormente si se generan desde un emulador o dispositivo real.
+### Menu
+
+![Menu](screenshots/menu.png)
+
+### Servidor y Cliente 
+
+![Cliente](screenshots/cliente.png)
+![Servidor](screenshots/Servidor.png)
+
+### Conexcion
+
+![Dashboard](screenshots/conexion.png)
 
 ## Seguridad
 
